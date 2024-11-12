@@ -30,6 +30,3 @@ If you'd like to contribute to the development of Buzz'n, feel free to fork the 
 - Push to the branch (git push origin feature-name).
 - Open a pull request.
 
-### Contact
-For any inquiries, you can reach me at:
-- Email: rahulr162001@gmail.com
